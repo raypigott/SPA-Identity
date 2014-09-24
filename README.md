@@ -6,6 +6,7 @@ Implementation of SPA Template App with Identity using Dapper for SQL Server.
 Changes in regards to the default template
 ------------------------------------------
 IdentityConfig.cs
+
 1. The ApplicationManager has been changed to use a UserManager with an int PK
 2. Added claims identity
 
