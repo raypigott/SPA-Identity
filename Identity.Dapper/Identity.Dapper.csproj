@@ -69,7 +69,6 @@
   <ItemGroup>
     <Compile Include="ApplicationConfiguration.cs" />
     <Compile Include="ApplicationDatabaseConfiguration.cs" />
-    <Compile Include="ApplicationUserManager.cs" />
     <Compile Include="Models\Role.cs" />
     <Compile Include="Models\UserClaim.cs" />
     <Compile Include="Models\User.cs" />
